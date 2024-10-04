@@ -1,4 +1,20 @@
-# 💫 About Me:
+
+<img align="right" width="30%" style="margin-bottom:-20px" src="https://i.ibb.co/GchvCv4/octocat-1728004950870.png" >
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div display="inline-block">
+
+ 
+ <h1 align="left">Diego Dias</h1>
+
+
+# 💫 Sobre mim:
+
 Estou voltando às origens (sou formado em Análise e Desenvolvimento) depois de um bom tempo afastado, tempo esse em que me dediquei em outra área.<br><br>No momento, sigo aprofundando meus conhecimentos tanto nos conceitos básicos, como HTML, CSS e boas práticas de programação, quanto com Javascript e frameworks baseados.
 
 
